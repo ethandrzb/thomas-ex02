@@ -5,9 +5,12 @@
 
 import java.util.Scanner;
 
+// Pseudocode Solution
+// prompt user for a string
+// output original string and its length
+
 public class Solution02
 {
-
     public static void main(String[] args)
     {
         Scanner sc = new Scanner(System.in);

@@ -6,7 +6,8 @@
 import java.util.Scanner;
 
 // Pseudocode Solution
-// prompt user for a string
+// Prompt user for a string
+// Store user input in <input> variable
 // output original string and its length
 
 public class Solution02
